@@ -1,4 +1,4 @@
 spring:
   profiles:
     group:
-      local: debuglogin, enable_osplus_sync, disable_siht_freigabe, disable_bkp_validation, enable_personnr_k40id_mapper
+      local: debuglogin, testprofile_1, testprofile_2
